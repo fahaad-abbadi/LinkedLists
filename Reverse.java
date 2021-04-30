@@ -1,6 +1,6 @@
 // function to reverse a linkedlist
-class ReverseLinkedList {
-    public static Node reverseList(Node head) {
+public class Reverse {
+    public static Node reverselist(Node head) {
         Node p = null, n = null;
         Node curr = head;
 

@@ -1,4 +1,4 @@
-class Solution {
+public class DetectLoop {
     public boolean detectLoop(Node head) {
         Node hare = head;
         Node turtle = head;

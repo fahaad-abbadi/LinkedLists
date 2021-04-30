@@ -1,4 +1,4 @@
-class ReverseLinkedListRecursive {
+public class ReverseLinkedListRecursive {
     static Node reverse(Node head) {
         if (head == null || head.next == null)
             return head;
